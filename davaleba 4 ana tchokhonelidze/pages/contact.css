@@ -1,0 +1,25 @@
+h1{
+    color: #4E6FAE;
+    size: 36px;
+    line-height: 43px;
+    font-weight: 700;
+}
+.gray {
+    color: #7E8898;
+    font-size: 20px;
+    display: inline-block;
+}
+.map-cont {
+    margin-top: 31px;
+    background-color: #E7E7E7;
+    width: 1660px;
+    height: 735px;
+    display: inline-block;
+    
+}
+iframe {
+    width: 940px;
+    height: 550px;
+    display: inline-block;
+    margin-right: 40px;
+}
